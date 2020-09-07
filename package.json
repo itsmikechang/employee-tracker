@@ -1,0 +1,23 @@
+{
+  "name": "homework_11",
+  "version": "1.0.0",
+  "description": "adds inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmikechang/homework_11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmikechang/homework_11/issues"
+  },
+  "homepage": "https://github.com/itsmikechang/homework_11#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
